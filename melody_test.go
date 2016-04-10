@@ -2,7 +2,7 @@ package melody
 
 import (
 	"bytes"
-	"github.com/gorilla/websocket"
+	"github.com/leavengood/websocket"
 	"net/http"
 	"net/http/httptest"
 	"strings"

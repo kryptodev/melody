@@ -1,7 +1,7 @@
 package melody
 
 import (
-	"github.com/gorilla/websocket"
+	"github.com/leavengood/websocket"
 	"net/http"
 )
 

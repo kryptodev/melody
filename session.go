@@ -2,7 +2,7 @@ package melody
 
 import (
 	"errors"
-	"github.com/gorilla/websocket"
+	"github.com/leavengood/websocket"
 	"net/http"
 	"time"
 )
